@@ -20,7 +20,7 @@ export const DISHES: Dish[] = [
             },
             {
                 rating: 4,
-                comment: 'Sends anyone to heaven, I wish I could get my mother-in-law to eat it!',
+                comment: 'Sends anyone to heaven, I wish I could get my mother-in-law to eat that pizza!',
                 author: 'Paul McVites',
                 date: '2014-09-05T17:57:28.556094Z'
             },

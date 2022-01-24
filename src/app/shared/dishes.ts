@@ -169,5 +169,47 @@ export const DISHES: Dish[] = [
                 date: '2011-12-02T17:57:28.556094Z'
             }
         ]
+    },
+    {
+        id: '4',
+        name: 'Burger Chips',
+        image: '/assets/images/burger.jpg',
+        category: 'fast-food',
+        featured: false,
+        label: '',
+        price: '3.99',
+        description: 'Fast-food vs. Full-service Restaurant: Which is the Healthier Choice?',
+        comments: [
+            {
+                rating: 5,
+                comment: 'I like this burger!',
+                author: 'John Lemon',
+                date: '2012-10-16T17:57:28.556094Z'
+            },
+            {
+                rating: 4,
+                comment: 'Sends anyone to heaven, I wish I could get my mother-in-law to eat it!',
+                author: 'Paul McVites',
+                date: '2014-09-05T17:57:28.556094Z'
+            },
+            {
+                rating: 3,
+                comment: 'Eat it, just eat it!',
+                author: 'Michael Jaikishan',
+                date: '2015-02-13T17:57:28.556094Z'
+            },
+            {
+                rating: 4,
+                comment: 'Got if for friday night!',
+                author: 'Ringo Starry',
+                date: '2013-12-02T17:57:28.556094Z'
+            },
+            {
+                rating: 2,
+                comment: 'It\'s your birthday, we\'re gonna party!',
+                author: '25 Cent',
+                date: '2011-12-02T17:57:28.556094Z'
+            }
+        ]
     }
 ];
